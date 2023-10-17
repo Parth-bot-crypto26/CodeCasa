@@ -12,10 +12,6 @@ Usage
 Contributing
 License
 Prerequisites
-Before you begin, make sure you have the following tools and knowledge:
-
-C++ Knowledge: A basic understanding of C++ programming is required.
-Visual Studio: You should have Visual Studio installed to work with this project. If you don't have it, you can download it here.
 Getting Started
 To get started with this project, follow these steps:
 
@@ -37,8 +33,8 @@ file-system-learning/
 │
 ├── src/
 │   ├── main.cpp        # Contains the main application code
-│   ├── User.cpp        # User registration and management code
-│   └── User.h          # User class header file
+│   ├── Login and Registration System.cpp        # User registration and management code
+│   └──Users.txt     # User Registration Name and Passwords
 │
 └── README.md           # This documentation file
 How it Works
