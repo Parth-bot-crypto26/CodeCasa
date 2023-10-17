@@ -1,0 +1,31 @@
+# Users.txt is a file that contains all the data( User Names and Passwords )
+# User 1
+Username: Ash
+Password: 1111
+# User 2
+Username: Victor
+Password: 2222
+# User 3
+Username: Zoe
+Password: 3333
+# User 4
+Username: Parth
+Password: 2006
+# User 5
+Username: Prathmesh
+Password: 2003
+# User 6
+Username: Vaibhav
+Password: Alpha
+# User 7
+Username: John_Doe
+Password: John@123
+# User 8
+Username: Test_user
+Password: Test23
+# User 9
+Username: Jane
+Password: password
+# User 10
+Username: Sample
+Password: SamplePWD
